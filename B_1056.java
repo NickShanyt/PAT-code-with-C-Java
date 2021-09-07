@@ -1,4 +1,3 @@
-package PTA.src;
 
 /**
  * @Author NickShan
@@ -15,7 +14,7 @@ import java.util.Scanner;
  * @Version 1.0
  **/
 
-public class B_1056
+public class Main
 {
     public static void main(String[] args) {
         Scanner in =new Scanner(System.in);
